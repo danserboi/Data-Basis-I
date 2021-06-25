@@ -18,4 +18,4 @@ Laboratory solutions for the Data Basis I course @ Faculty of Automatic Control 
 
   * Lab 10 [source 1](https://github.com/danserboi/Data-Basis-I/blob/main/lab10_bd.sql) [source 2](https://github.com/danserboi/Data-Basis-I/blob/main/lab10_ocw.sql)
 
-  * Lab 11 [source 1](https://github.com/danserboi/Data-Basis-I/blob/main/lab11_bd.sql) [source 2](https://github.com/danserboi/Data-Basis-I/blob/main/lab11_ocw.sql)
+  * Lab 11 [source](https://github.com/danserboi/Data-Basis-I/blob/main/lab11_bd.sql)
